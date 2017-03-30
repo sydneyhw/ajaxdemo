@@ -1,0 +1,1 @@
+基于Node.js的Ajax demo,从一个文件中读取信息
